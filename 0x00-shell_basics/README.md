@@ -11,3 +11,4 @@
 10. change to prev dir
 11. list multiple dir in long format
 12. lsit file type
+13. create symboliclink
