@@ -16,3 +16,5 @@
 15. uppercase wild card mv
 16. delete emacs files ~
 17. make parent directories
+18. Listing, commas, slash
+19. magic file
