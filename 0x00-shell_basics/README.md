@@ -15,3 +15,4 @@
 14. copy without overwrite
 15. uppercase wild card mv
 16. delete emacs files ~
+17. make parent directories
