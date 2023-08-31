@@ -13,3 +13,5 @@
 11. changing directory permissions excluding files
 12. mkdir -m
 13. change group owner
+14. change owner and group simultaneously
+15. change symbolic link ownership
