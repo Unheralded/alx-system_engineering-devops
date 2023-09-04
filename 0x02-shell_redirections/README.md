@@ -11,3 +11,4 @@
 16. count lines containing bin in /etc/passwd.
 17. display lines containing root in /etc/passwd + 3 trailing lines.
 18. display all the lines in /etc/passwd that do not contain bin.
+19. display only lines starting with a letter
