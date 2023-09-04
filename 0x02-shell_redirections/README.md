@@ -5,3 +5,5 @@
 4. cat 2 files (display)
 5. display last 10 lines
 6. display first 10 lines
+8. writing stdout in file
+12. display 10 newest files in dir sorted new - old
