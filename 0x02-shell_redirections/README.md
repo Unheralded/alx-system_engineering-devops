@@ -7,3 +7,4 @@
 6. display first 10 lines
 8. writing stdout in file
 12. display 10 newest files in dir sorted new - old
+15. print all the lines containing root in /etc/passwd
