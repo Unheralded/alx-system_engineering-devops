@@ -13,3 +13,4 @@
 18. display all the lines in /etc/passwd that do not contain bin.
 19. display only lines starting with a letter
 20. character replacement: A and c with Z and e respectively
+21. remove C & c from stdin
