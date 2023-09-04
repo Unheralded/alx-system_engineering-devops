@@ -15,3 +15,4 @@
 20. character replacement: A and c with Z and e respectively
 21. remove C & c from stdin
 22. reverse input
+23. sort /etc/passwd contents by username
