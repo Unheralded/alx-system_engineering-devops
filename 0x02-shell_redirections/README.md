@@ -8,3 +8,4 @@
 8. writing stdout in file
 12. display 10 newest files in dir sorted new - old
 15. print all the lines containing root in /etc/passwd
+16. count lines containing bin in /etc/passwd
