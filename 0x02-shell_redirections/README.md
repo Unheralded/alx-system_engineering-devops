@@ -7,8 +7,9 @@
 6. display first 10 lines.
 7. createfile with escape characters
 8. writing stdout in file.
-10. using find command to recursively delete all .js files
-12. display 10 newest files in dir sorted new - old.
+11. using find command to recursively delete all .js files
+12. count all dir including hidden in current dir & sub dir 
+13. display 10 newest files in dir sorted new - old.
 15. print all the lines containing root in /etc/passwd.
 16. count lines containing bin in /etc/passwd.
 17. display lines containing root in /etc/passwd + 3 trailing lines.
