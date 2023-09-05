@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -d$'\t' -f1,7 | sort -t$'\t' -k2 -r | head -n 12 | tail -n 11 | cut -d$'\t' -f1
