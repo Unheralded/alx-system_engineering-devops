@@ -4,3 +4,4 @@
 2. add /action to PATH
 3. print number of dir in PATH
 4. print enviroment variables
+5. display local variables
