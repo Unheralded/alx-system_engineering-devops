@@ -8,3 +8,5 @@
 6. create local variable
 7. global variable
 8. add 128 to TRUEKNOWLEDGE
+9. POWER/DIVIDE
+10. BREATH**LOVE
