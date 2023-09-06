@@ -6,3 +6,4 @@
 4. print enviroment variables
 5. display local variables
 6. create local variable
+7. global variable
