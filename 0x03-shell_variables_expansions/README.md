@@ -14,3 +14,4 @@
 12. letter combination print
 13. convert to floating pont
 14. convert to hexadecimal
+15. rot13 encoding and decoding
