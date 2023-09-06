@@ -5,3 +5,4 @@
 3. print number of dir in PATH
 4. print enviroment variables
 5. display local variables
+6. create local variable
