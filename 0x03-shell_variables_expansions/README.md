@@ -10,3 +10,6 @@
 8. add 128 to TRUEKNOWLEDGE
 9. POWER/DIVIDE
 10. BREATH**LOVE
+11. convert binary to base 10
+12. letter combination print
+13. convert to floating pont
