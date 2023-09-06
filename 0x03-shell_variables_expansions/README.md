@@ -13,3 +13,4 @@
 11. convert binary to base 10
 12. letter combination print
 13. convert to floating pont
+14. convert to hexadecimal
